@@ -1,1 +1,2 @@
 Estoy en camino para pasar el examen DEVASC de Cisco
+Estoy empezando a entender Git
